@@ -4,3 +4,4 @@ nbproject
 /nbproject/private/
 /assets
 /assets/*
+/protected/config/main_local.php
